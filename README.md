@@ -22,6 +22,7 @@ go-chat/
 ├── server.go   # Chat server handling users and broadcasting
 ├── client.go   # Chat client for sending and receiving messages
 └── README.md   # Documentation
+|__ Video       # https://drive.google.com/file/d/192Rnq1UQ91fqJD-WE__lsPuLmXATdrjq/view?usp=sharing
 
 ⚙️ Requirements
 
